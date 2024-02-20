@@ -10,4 +10,4 @@
 
 <hr> 
 
-Created and Developed using HTML,PHP and JS
+Created and Developed using PHP and JS
